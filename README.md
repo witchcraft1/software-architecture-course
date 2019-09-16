@@ -1,2 +1,3 @@
 # software-architecture-course
-Education course provided by KPI fkfsdlfsdlfs
+
+Kpi Architecture course provided by KPI teacher Roman Mazur..
